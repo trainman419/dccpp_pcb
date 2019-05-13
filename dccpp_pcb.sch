@@ -381,4 +381,59 @@ F 3 "~" H 2000 2300 50  0001 C CNN
 	1    2000 2300
 	0    1    1    0   
 $EndComp
+$Comp
+L Connector:AVR-ISP-6 J?
+U 1 1 5CE58532
+P 1250 3700
+F 0 "J?" H 971 3796 50  0000 R CNN
+F 1 "AVR-ISP-6" H 971 3705 50  0000 R CNN
+F 2 "" V 1000 3750 50  0001 C CNN
+F 3 " ~" H -25 3150 50  0001 C CNN
+	1    1250 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L dk_Terminal-Blocks-Wire-to-Board:OSTTC022162 J?
+U 1 1 5CE5D8D6
+P 10450 1000
+F 0 "J?" V 10541 822 50  0000 R CNN
+F 1 "OSTTC022162" V 10450 822 50  0000 R CNN
+F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 10650 1200 60  0001 L CNN
+F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 10650 1300 60  0001 L CNN
+F 4 "ED2609-ND" H 10650 1400 60  0001 L CNN "Digi-Key_PN"
+F 5 "OSTTC022162" H 10650 1500 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 10650 1600 60  0001 L CNN "Category"
+F 7 "Terminal Blocks - Wire to Board" H 10650 1700 60  0001 L CNN "Family"
+F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 10650 1800 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 10650 1900 60  0001 L CNN "DK_Detail_Page"
+F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 10650 2000 60  0001 L CNN "Description"
+F 11 "On Shore Technology Inc." H 10650 2100 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 10650 2200 60  0001 L CNN "Status"
+	1    10450 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L dk_Terminal-Blocks-Wire-to-Board:OSTTC022162 J?
+U 1 1 5CE61EAC
+P 10450 1400
+F 0 "J?" V 10541 1222 50  0000 R CNN
+F 1 "OSTTC022162" V 10450 1222 50  0000 R CNN
+F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 10650 1600 60  0001 L CNN
+F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 10650 1700 60  0001 L CNN
+F 4 "ED2609-ND" H 10650 1800 60  0001 L CNN "Digi-Key_PN"
+F 5 "OSTTC022162" H 10650 1900 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 10650 2000 60  0001 L CNN "Category"
+F 7 "Terminal Blocks - Wire to Board" H 10650 2100 60  0001 L CNN "Family"
+F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 10650 2200 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 10650 2300 60  0001 L CNN "DK_Detail_Page"
+F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 10650 2400 60  0001 L CNN "Description"
+F 11 "On Shore Technology Inc." H 10650 2500 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 10650 2600 60  0001 L CNN "Status"
+	1    10450 1400
+	0    -1   -1   0   
+$EndComp
+Text Notes 10500 1200 0    50   ~ 0
+DCC Out
+Text Notes 10500 800  0    50   ~ 0
+Power
 $EndSCHEMATC
