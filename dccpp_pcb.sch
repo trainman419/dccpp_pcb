@@ -1467,4 +1467,200 @@ F 3 "~" H 10250 900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Connection ~ 10250 900 
+$Comp
+L dk_Terminal-Blocks-Wire-to-Board:OSTTC022162 J?
+U 1 1 5D4F1D7E
+P 5900 2750
+F 0 "J?" V 5991 2572 50  0000 R CNN
+F 1 "OSTTC022162" V 5900 2572 50  0000 R CNN
+F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 6100 2950 60  0001 L CNN
+F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 3050 60  0001 L CNN
+F 4 "ED2609-ND" H 6100 3150 60  0001 L CNN "Digi-Key_PN"
+F 5 "OSTTC022162" H 6100 3250 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 6100 3350 60  0001 L CNN "Category"
+F 7 "Terminal Blocks - Wire to Board" H 6100 3450 60  0001 L CNN "Family"
+F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 3550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 6100 3650 60  0001 L CNN "DK_Detail_Page"
+F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 6100 3750 60  0001 L CNN "Description"
+F 11 "On Shore Technology Inc." H 6100 3850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 6100 3950 60  0001 L CNN "Status"
+	1    5900 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L dk_Terminal-Blocks-Wire-to-Board:OSTTC022162 J?
+U 1 1 5D4F5E05
+P 5900 2500
+F 0 "J?" V 5991 2322 50  0000 R CNN
+F 1 "OSTTC022162" V 5900 2322 50  0000 R CNN
+F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 6100 2700 60  0001 L CNN
+F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 2800 60  0001 L CNN
+F 4 "ED2609-ND" H 6100 2900 60  0001 L CNN "Digi-Key_PN"
+F 5 "OSTTC022162" H 6100 3000 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 6100 3100 60  0001 L CNN "Category"
+F 7 "Terminal Blocks - Wire to Board" H 6100 3200 60  0001 L CNN "Family"
+F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 3300 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 6100 3400 60  0001 L CNN "DK_Detail_Page"
+F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 6100 3500 60  0001 L CNN "Description"
+F 11 "On Shore Technology Inc." H 6100 3600 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 6100 3700 60  0001 L CNN "Status"
+	1    5900 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L dk_Terminal-Blocks-Wire-to-Board:OSTTC022162 J?
+U 1 1 5D4F65A0
+P 5900 2250
+F 0 "J?" V 5991 2072 50  0000 R CNN
+F 1 "OSTTC022162" V 5900 2072 50  0000 R CNN
+F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 6100 2450 60  0001 L CNN
+F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 2550 60  0001 L CNN
+F 4 "ED2609-ND" H 6100 2650 60  0001 L CNN "Digi-Key_PN"
+F 5 "OSTTC022162" H 6100 2750 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 6100 2850 60  0001 L CNN "Category"
+F 7 "Terminal Blocks - Wire to Board" H 6100 2950 60  0001 L CNN "Family"
+F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 3050 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 6100 3150 60  0001 L CNN "DK_Detail_Page"
+F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 6100 3250 60  0001 L CNN "Description"
+F 11 "On Shore Technology Inc." H 6100 3350 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 6100 3450 60  0001 L CNN "Status"
+	1    5900 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L dk_Terminal-Blocks-Wire-to-Board:OSTTC022162 J?
+U 1 1 5D4F6D61
+P 5900 2000
+F 0 "J?" V 5991 1822 50  0000 R CNN
+F 1 "OSTTC022162" V 5900 1822 50  0000 R CNN
+F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 6100 2200 60  0001 L CNN
+F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 2300 60  0001 L CNN
+F 4 "ED2609-ND" H 6100 2400 60  0001 L CNN "Digi-Key_PN"
+F 5 "OSTTC022162" H 6100 2500 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 6100 2600 60  0001 L CNN "Category"
+F 7 "Terminal Blocks - Wire to Board" H 6100 2700 60  0001 L CNN "Family"
+F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 2800 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 6100 2900 60  0001 L CNN "DK_Detail_Page"
+F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 6100 3000 60  0001 L CNN "Description"
+F 11 "On Shore Technology Inc." H 6100 3100 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 6100 3200 60  0001 L CNN "Status"
+	1    5900 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L dk_Terminal-Blocks-Wire-to-Board:OSTTC022162 J?
+U 1 1 5D4F7430
+P 5900 1750
+F 0 "J?" V 5991 1572 50  0000 R CNN
+F 1 "OSTTC022162" V 5900 1572 50  0000 R CNN
+F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 6100 1950 60  0001 L CNN
+F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 2050 60  0001 L CNN
+F 4 "ED2609-ND" H 6100 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "OSTTC022162" H 6100 2250 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 6100 2350 60  0001 L CNN "Category"
+F 7 "Terminal Blocks - Wire to Board" H 6100 2450 60  0001 L CNN "Family"
+F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 6100 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 6100 2750 60  0001 L CNN "Description"
+F 11 "On Shore Technology Inc." H 6100 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 6100 2950 60  0001 L CNN "Status"
+	1    5900 1750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L dk_Terminal-Blocks-Wire-to-Board:OSTTC022162 J?
+U 1 1 5D4F80FF
+P 5900 1500
+F 0 "J?" V 5991 1322 50  0000 R CNN
+F 1 "OSTTC022162" V 5900 1322 50  0000 R CNN
+F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 6100 1700 60  0001 L CNN
+F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 1800 60  0001 L CNN
+F 4 "ED2609-ND" H 6100 1900 60  0001 L CNN "Digi-Key_PN"
+F 5 "OSTTC022162" H 6100 2000 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 6100 2100 60  0001 L CNN "Category"
+F 7 "Terminal Blocks - Wire to Board" H 6100 2200 60  0001 L CNN "Family"
+F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 2300 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 6100 2400 60  0001 L CNN "DK_Detail_Page"
+F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 6100 2500 60  0001 L CNN "Description"
+F 11 "On Shore Technology Inc." H 6100 2600 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 6100 2700 60  0001 L CNN "Status"
+	1    5900 1500
+	0    -1   -1   0   
+$EndComp
+Text Label 5600 2750 0    50   ~ 0
+D0
+Text Label 5600 2650 0    50   ~ 0
+D1
+Text Label 5600 2500 0    50   ~ 0
+D2
+Text Label 5600 2400 0    50   ~ 0
+D4
+Text Label 5600 2250 0    50   ~ 0
+D6
+Text Label 5600 2150 0    50   ~ 0
+D7
+Text Label 5600 2000 0    50   ~ 0
+D8
+Text Label 5600 1900 0    50   ~ 0
+D9
+Text Label 5600 1750 0    50   ~ 0
+D12
+Text Label 5600 1650 0    50   ~ 0
+D13
+Text Label 5600 1500 0    50   ~ 0
+A2
+Text Label 5600 1400 0    50   ~ 0
+A3
+Text Label 5600 1250 0    50   ~ 0
+A4
+Text Label 5600 1150 0    50   ~ 0
+A5
+$Comp
+L dk_Terminal-Blocks-Wire-to-Board:OSTTC022162 J?
+U 1 1 5D508A0B
+P 5900 1250
+F 0 "J?" V 5991 1072 50  0000 R CNN
+F 1 "OSTTC022162" V 5900 1072 50  0000 R CNN
+F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 6100 1450 60  0001 L CNN
+F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 1550 60  0001 L CNN
+F 4 "ED2609-ND" H 6100 1650 60  0001 L CNN "Digi-Key_PN"
+F 5 "OSTTC022162" H 6100 1750 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 6100 1850 60  0001 L CNN "Category"
+F 7 "Terminal Blocks - Wire to Board" H 6100 1950 60  0001 L CNN "Family"
+F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 6100 2050 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 6100 2150 60  0001 L CNN "DK_Detail_Page"
+F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 6100 2250 60  0001 L CNN "Description"
+F 11 "On Shore Technology Inc." H 6100 2350 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 6100 2450 60  0001 L CNN "Status"
+	1    5900 1250
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5600 1150 5800 1150
+Wire Wire Line
+	5800 1250 5600 1250
+Wire Wire Line
+	5600 1400 5800 1400
+Wire Wire Line
+	5800 1500 5600 1500
+Wire Wire Line
+	5600 1650 5800 1650
+Wire Wire Line
+	5800 1750 5600 1750
+Wire Wire Line
+	5600 1900 5800 1900
+Wire Wire Line
+	5800 2000 5600 2000
+Wire Wire Line
+	5600 2150 5800 2150
+Wire Wire Line
+	5800 2250 5600 2250
+Wire Wire Line
+	5600 2400 5800 2400
+Wire Wire Line
+	5800 2500 5600 2500
+Wire Wire Line
+	5600 2650 5800 2650
+Wire Wire Line
+	5800 2750 5600 2750
 $EndSCHEMATC
