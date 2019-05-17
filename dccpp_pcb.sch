@@ -537,17 +537,11 @@ Wire Wire Line
 Wire Wire Line
 	10100 2000 10000 2000
 Wire Wire Line
-	10000 1800 10000 1900
+	10000 1850 10350 1850
 Wire Wire Line
-	10000 1900 10350 1900
-Connection ~ 10000 1900
+	10350 2250 10350 2750
 Wire Wire Line
-	10350 2250 10350 2700
-Wire Wire Line
-	10350 2700 10000 2700
-Wire Wire Line
-	10000 2700 10000 2800
-Connection ~ 10000 2700
+	10350 2750 10000 2750
 $Comp
 L dccpp:IFX007T U5
 U 1 1 5CE8BE2F
@@ -639,7 +633,7 @@ Wire Wire Line
 Wire Wire Line
 	10250 1000 10250 1100
 Wire Wire Line
-	10350 1900 10350 2150
+	10350 1850 10350 2150
 Wire Wire Line
 	10000 4900 10100 4900
 Wire Wire Line
@@ -649,19 +643,13 @@ Wire Wire Line
 Wire Wire Line
 	10000 3700 10100 3700
 Wire Wire Line
-	10000 3800 10000 3900
+	10000 3850 10350 3850
 Wire Wire Line
-	10000 3900 10350 3900
+	10350 3850 10350 4150
 Wire Wire Line
-	10350 3900 10350 4150
-Connection ~ 10000 3900
+	10350 4250 10350 4750
 Wire Wire Line
-	10350 4250 10350 4700
-Wire Wire Line
-	10350 4700 10000 4700
-Wire Wire Line
-	10000 4700 10000 4800
-Connection ~ 10000 4700
+	10350 4750 10000 4750
 Text Notes 10450 4050 0    50   ~ 0
 Prog Out
 Text Label 7550 1700 0    50   ~ 0
@@ -1320,10 +1308,10 @@ Wire Wire Line
 Text Notes 5600 3550 0    50   ~ 0
 Current Sense:\nMax current @ 10A load is 1.05mA ( 666uA load + 385 uA offset )\nFault current: 4.1 to 6.1mA\nOk to sum currents from multiple devices.\nCurrent sense only when high side active.\nFault current continuous.
 $Comp
-L Device:R_Small_US R?
+L Device:R_Small_US R19
 U 1 1 5D3AA9FD
 P 8300 4900
-F 0 "R?" H 8368 4946 50  0000 L CNN
+F 0 "R19" H 8368 4946 50  0000 L CNN
 F 1 "470" H 8368 4855 50  0000 L CNN
 F 2 "" H 8300 4900 50  0001 C CNN
 F 3 "~" H 8300 4900 50  0001 C CNN
@@ -1331,10 +1319,10 @@ F 3 "~" H 8300 4900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small_US R?
+L Device:R_Small_US R18
 U 1 1 5D3AB504
 P 8300 2900
-F 0 "R?" H 8368 2946 50  0000 L CNN
+F 0 "R18" H 8368 2946 50  0000 L CNN
 F 1 "470" H 8368 2855 50  0000 L CNN
 F 2 "" H 8300 2900 50  0001 C CNN
 F 3 "~" H 8300 2900 50  0001 C CNN
@@ -1342,10 +1330,10 @@ F 3 "~" H 8300 2900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0134
 U 1 1 5D3B2373
 P 8300 3100
-F 0 "#PWR?" H 8300 2850 50  0001 C CNN
+F 0 "#PWR0134" H 8300 2850 50  0001 C CNN
 F 1 "GND" H 8305 2927 50  0000 C CNN
 F 2 "" H 8300 3100 50  0001 C CNN
 F 3 "" H 8300 3100 50  0001 C CNN
@@ -1353,10 +1341,10 @@ F 3 "" H 8300 3100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0135
 U 1 1 5D3B27C2
 P 8300 5100
-F 0 "#PWR?" H 8300 4850 50  0001 C CNN
+F 0 "#PWR0135" H 8300 4850 50  0001 C CNN
 F 1 "GND" H 8305 4927 50  0000 C CNN
 F 2 "" H 8300 5100 50  0001 C CNN
 F 3 "" H 8300 5100 50  0001 C CNN
@@ -1373,4 +1361,110 @@ Wire Wire Line
 	8300 4800 8550 4800
 Wire Wire Line
 	8300 5100 8300 5000
+$Comp
+L power:+5V #PWR0136
+U 1 1 5D3F86B0
+P 1150 3200
+F 0 "#PWR0136" H 1150 3050 50  0001 C CNN
+F 1 "+5V" H 1165 3373 50  0000 C CNN
+F 2 "" H 1150 3200 50  0001 C CNN
+F 3 "" H 1150 3200 50  0001 C CNN
+	1    1150 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0137
+U 1 1 5D3F8F1D
+P 1150 4100
+F 0 "#PWR0137" H 1150 3850 50  0001 C CNN
+F 1 "GND" H 1155 3927 50  0000 C CNN
+F 2 "" H 1150 4100 50  0001 C CNN
+F 3 "" H 1150 4100 50  0001 C CNN
+	1    1150 4100
+	1    0    0    -1  
+$EndComp
+NoConn ~ 7650 6250
+NoConn ~ 8500 6250
+NoConn ~ 9350 6250
+NoConn ~ 10200 6250
+NoConn ~ 1200 2500
+Text Label 4000 2700 2    50   ~ 0
+D0
+Text Label 4000 2800 2    50   ~ 0
+D1
+Text Label 4000 2600 2    50   ~ 0
+D2
+Text Label 4000 2900 2    50   ~ 0
+D4
+Text Label 4000 3200 2    50   ~ 0
+D6
+Text Label 4000 3500 2    50   ~ 0
+D7
+Text Label 4000 1700 2    50   ~ 0
+D8
+Text Label 4000 1800 2    50   ~ 0
+D9
+Text Label 4000 3100 2    50   ~ 0
+D12
+Text Label 4150 4000 2    50   ~ 0
+A2
+Text Label 4150 3900 2    50   ~ 0
+A3
+Text Label 4150 3800 2    50   ~ 0
+A4
+Text Label 4150 3700 2    50   ~ 0
+A5
+Wire Wire Line
+	4150 3700 3600 3700
+Wire Wire Line
+	3600 3800 4150 3800
+Wire Wire Line
+	4150 3900 3600 3900
+Wire Wire Line
+	4150 4000 3600 4000
+Wire Wire Line
+	4000 3500 3600 3500
+Wire Wire Line
+	3600 3200 4000 3200
+Wire Wire Line
+	4000 3100 3600 3100
+Wire Wire Line
+	3600 2900 4000 2900
+Wire Wire Line
+	4000 2800 3600 2800
+Wire Wire Line
+	3600 2700 4000 2700
+Wire Wire Line
+	4000 2600 3600 2600
+Wire Wire Line
+	3600 1800 4000 1800
+Wire Wire Line
+	4000 1700 3600 1700
+Text Label 4000 2300 2    50   ~ 0
+D13
+Wire Wire Line
+	4000 2300 3600 2300
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5D4E6B43
+P 1050 800
+F 0 "#FLG0101" H 1050 875 50  0001 C CNN
+F 1 "PWR_FLAG" H 1050 973 50  0000 C CNN
+F 2 "" H 1050 800 50  0001 C CNN
+F 3 "~" H 1050 800 50  0001 C CNN
+	1    1050 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0103
+U 1 1 5D4EA9C3
+P 10250 900
+F 0 "#FLG0103" H 10250 975 50  0001 C CNN
+F 1 "PWR_FLAG" V 10250 1027 50  0000 L CNN
+F 2 "" H 10250 900 50  0001 C CNN
+F 3 "~" H 10250 900 50  0001 C CNN
+	1    10250 900 
+	0    -1   -1   0   
+$EndComp
+Connection ~ 10250 900 
 $EndSCHEMATC
