@@ -446,21 +446,21 @@ $EndComp
 $Comp
 L dk_Terminal-Blocks-Wire-to-Board:OSTTC022162 J11
 U 1 1 5CE61EAC
-P 10450 2250
-F 0 "J11" V 10541 2072 50  0000 R CNN
-F 1 "OSTTC022162" V 10450 2072 50  0000 R CNN
-F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 10650 2450 60  0001 L CNN
-F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 10650 2550 60  0001 L CNN
-F 4 "ED2609-ND" H 10650 2650 60  0001 L CNN "Digi-Key_PN"
-F 5 "OSTTC022162" H 10650 2750 60  0001 L CNN "MPN"
-F 6 "Connectors, Interconnects" H 10650 2850 60  0001 L CNN "Category"
-F 7 "Terminal Blocks - Wire to Board" H 10650 2950 60  0001 L CNN "Family"
-F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 10650 3050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 10650 3150 60  0001 L CNN "DK_Detail_Page"
-F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 10650 3250 60  0001 L CNN "Description"
-F 11 "On Shore Technology Inc." H 10650 3350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 10650 3450 60  0001 L CNN "Status"
-	1    10450 2250
+P 10450 2350
+F 0 "J11" V 10541 2172 50  0000 R CNN
+F 1 "OSTTC022162" V 10450 2172 50  0000 R CNN
+F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 10650 2550 60  0001 L CNN
+F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 10650 2650 60  0001 L CNN
+F 4 "ED2609-ND" H 10650 2750 60  0001 L CNN "Digi-Key_PN"
+F 5 "OSTTC022162" H 10650 2850 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 10650 2950 60  0001 L CNN "Category"
+F 7 "Terminal Blocks - Wire to Board" H 10650 3050 60  0001 L CNN "Family"
+F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 10650 3150 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 10650 3250 60  0001 L CNN "DK_Detail_Page"
+F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 10650 3350 60  0001 L CNN "Description"
+F 11 "On Shore Technology Inc." H 10650 3450 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 10650 3550 60  0001 L CNN "Status"
+	1    10450 2350
 	0    -1   -1   0   
 $EndComp
 Text Notes 10450 2050 0    50   ~ 0
@@ -568,7 +568,7 @@ Wire Wire Line
 Wire Wire Line
 	10000 1850 10350 1850
 Wire Wire Line
-	10350 2250 10350 2750
+	10350 2350 10350 2750
 Wire Wire Line
 	10350 2750 10000 2750
 $Comp
@@ -600,21 +600,21 @@ $EndComp
 $Comp
 L dk_Terminal-Blocks-Wire-to-Board:OSTTC022162 J12
 U 1 1 5CE8C522
-P 10450 4250
-F 0 "J12" V 10541 4072 50  0000 R CNN
-F 1 "OSTTC022162" V 10450 4072 50  0000 R CNN
-F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 10650 4450 60  0001 L CNN
-F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 10650 4550 60  0001 L CNN
-F 4 "ED2609-ND" H 10650 4650 60  0001 L CNN "Digi-Key_PN"
-F 5 "OSTTC022162" H 10650 4750 60  0001 L CNN "MPN"
-F 6 "Connectors, Interconnects" H 10650 4850 60  0001 L CNN "Category"
-F 7 "Terminal Blocks - Wire to Board" H 10650 4950 60  0001 L CNN "Family"
-F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 10650 5050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 10650 5150 60  0001 L CNN "DK_Detail_Page"
-F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 10650 5250 60  0001 L CNN "Description"
-F 11 "On Shore Technology Inc." H 10650 5350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 10650 5450 60  0001 L CNN "Status"
-	1    10450 4250
+P 10450 4350
+F 0 "J12" V 10541 4172 50  0000 R CNN
+F 1 "OSTTC022162" V 10450 4172 50  0000 R CNN
+F 2 "digikey-footprints:Term_Block_1x2_P5.08MM" H 10650 4550 60  0001 L CNN
+F 3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 10650 4650 60  0001 L CNN
+F 4 "ED2609-ND" H 10650 4750 60  0001 L CNN "Digi-Key_PN"
+F 5 "OSTTC022162" H 10650 4850 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 10650 4950 60  0001 L CNN "Category"
+F 7 "Terminal Blocks - Wire to Board" H 10650 5050 60  0001 L CNN "Family"
+F 8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" H 10650 5150 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" H 10650 5250 60  0001 L CNN "DK_Detail_Page"
+F 10 "TERM BLK 2P SIDE ENT 5.08MM PCB" H 10650 5350 60  0001 L CNN "Description"
+F 11 "On Shore Technology Inc." H 10650 5450 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 10650 5550 60  0001 L CNN "Status"
+	1    10450 4350
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -666,7 +666,7 @@ Wire Wire Line
 Wire Wire Line
 	10250 950  10250 1050
 Wire Wire Line
-	10350 1850 10350 2150
+	10350 1850 10350 2250
 Wire Wire Line
 	10000 4900 10100 4900
 Wire Wire Line
@@ -678,9 +678,9 @@ Wire Wire Line
 Wire Wire Line
 	10000 3850 10350 3850
 Wire Wire Line
-	10350 3850 10350 4150
+	10350 3850 10350 4250
 Wire Wire Line
-	10350 4250 10350 4750
+	10350 4350 10350 4750
 Wire Wire Line
 	10350 4750 10000 4750
 Text Notes 10450 4050 0    50   ~ 0
@@ -926,135 +926,135 @@ $EndComp
 $Comp
 L 74xx:74HC04 U2
 U 3 1 5CF74509
-P 7350 6250
-F 0 "U2" H 7350 6567 50  0000 C CNN
-F 1 "74HC04" H 7350 6476 50  0000 C CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 7350 6250 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 7350 6250 50  0001 C CNN
-F 4 "MC74HC04ADGOS-ND" H 7350 6250 50  0001 C CNN "Digi-Key_PN"
-F 5 "MC74HC04ADG" H 7350 6250 50  0001 C CNN "MPN"
-	3    7350 6250
+P 1350 7200
+F 0 "U2" H 1350 7517 50  0000 C CNN
+F 1 "74HC04" H 1350 7426 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 1350 7200 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 1350 7200 50  0001 C CNN
+F 4 "MC74HC04ADGOS-ND" H 1350 7200 50  0001 C CNN "Digi-Key_PN"
+F 5 "MC74HC04ADG" H 1350 7200 50  0001 C CNN "MPN"
+	3    1350 7200
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74xx:74HC04 U2
 U 4 1 5CF75C44
-P 8200 6250
-F 0 "U2" H 8200 6567 50  0000 C CNN
-F 1 "74HC04" H 8200 6476 50  0000 C CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 8200 6250 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 8200 6250 50  0001 C CNN
-F 4 "MC74HC04ADGOS-ND" H 8200 6250 50  0001 C CNN "Digi-Key_PN"
-F 5 "MC74HC04ADG" H 8200 6250 50  0001 C CNN "MPN"
-	4    8200 6250
+P 2200 7200
+F 0 "U2" H 2200 7517 50  0000 C CNN
+F 1 "74HC04" H 2200 7426 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 2200 7200 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 2200 7200 50  0001 C CNN
+F 4 "MC74HC04ADGOS-ND" H 2200 7200 50  0001 C CNN "Digi-Key_PN"
+F 5 "MC74HC04ADG" H 2200 7200 50  0001 C CNN "MPN"
+	4    2200 7200
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74xx:74HC04 U2
 U 5 1 5CF770C1
-P 9050 6250
-F 0 "U2" H 9050 6567 50  0000 C CNN
-F 1 "74HC04" H 9050 6476 50  0000 C CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 9050 6250 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 9050 6250 50  0001 C CNN
-F 4 "MC74HC04ADGOS-ND" H 9050 6250 50  0001 C CNN "Digi-Key_PN"
-F 5 "MC74HC04ADG" H 9050 6250 50  0001 C CNN "MPN"
-	5    9050 6250
+P 3050 7200
+F 0 "U2" H 3050 7517 50  0000 C CNN
+F 1 "74HC04" H 3050 7426 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 3050 7200 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3050 7200 50  0001 C CNN
+F 4 "MC74HC04ADGOS-ND" H 3050 7200 50  0001 C CNN "Digi-Key_PN"
+F 5 "MC74HC04ADG" H 3050 7200 50  0001 C CNN "MPN"
+	5    3050 7200
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74xx:74HC04 U2
 U 6 1 5CF77E52
-P 9900 6250
-F 0 "U2" H 9900 6567 50  0000 C CNN
-F 1 "74HC04" H 9900 6476 50  0000 C CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 9900 6250 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 9900 6250 50  0001 C CNN
-F 4 "MC74HC04ADGOS-ND" H 9900 6250 50  0001 C CNN "Digi-Key_PN"
-F 5 "MC74HC04ADG" H 9900 6250 50  0001 C CNN "MPN"
-	6    9900 6250
+P 3900 7200
+F 0 "U2" H 3900 7517 50  0000 C CNN
+F 1 "74HC04" H 3900 7426 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 3900 7200 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3900 7200 50  0001 C CNN
+F 4 "MC74HC04ADGOS-ND" H 3900 7200 50  0001 C CNN "Digi-Key_PN"
+F 5 "MC74HC04ADG" H 3900 7200 50  0001 C CNN "MPN"
+	6    3900 7200
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74xx:74HC04 U2
 U 7 1 5CF78C8D
-P 10600 5750
-F 0 "U2" H 10830 5796 50  0000 L CNN
-F 1 "74HC04" H 10830 5705 50  0000 L CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 10600 5750 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 10600 5750 50  0001 C CNN
-F 4 "MC74HC04ADGOS-ND" H 10600 5750 50  0001 C CNN "Digi-Key_PN"
-F 5 "MC74HC04ADG" H 10600 5750 50  0001 C CNN "MPN"
-	7    10600 5750
+P 5500 6900
+F 0 "U2" H 5730 6946 50  0000 L CNN
+F 1 "74HC04" H 5730 6855 50  0000 L CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 5500 6900 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 5500 6900 50  0001 C CNN
+F 4 "MC74HC04ADGOS-ND" H 5500 6900 50  0001 C CNN "Digi-Key_PN"
+F 5 "MC74HC04ADG" H 5500 6900 50  0001 C CNN "MPN"
+	7    5500 6900
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:+5V #PWR036
 U 1 1 5CF7B9AF
-P 10600 5250
-F 0 "#PWR036" H 10600 5100 50  0001 C CNN
-F 1 "+5V" H 10615 5423 50  0000 C CNN
-F 2 "" H 10600 5250 50  0001 C CNN
-F 3 "" H 10600 5250 50  0001 C CNN
-	1    10600 5250
+P 5500 6400
+F 0 "#PWR036" H 5500 6250 50  0001 C CNN
+F 1 "+5V" H 5515 6573 50  0000 C CNN
+F 2 "" H 5500 6400 50  0001 C CNN
+F 3 "" H 5500 6400 50  0001 C CNN
+	1    5500 6400
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR037
 U 1 1 5CF7C225
-P 10600 6250
-F 0 "#PWR037" H 10600 6000 50  0001 C CNN
-F 1 "GND" H 10605 6077 50  0000 C CNN
-F 2 "" H 10600 6250 50  0001 C CNN
-F 3 "" H 10600 6250 50  0001 C CNN
-	1    10600 6250
+P 5500 7400
+F 0 "#PWR037" H 5500 7150 50  0001 C CNN
+F 1 "GND" H 5505 7227 50  0000 C CNN
+F 2 "" H 5500 7400 50  0001 C CNN
+F 3 "" H 5500 7400 50  0001 C CNN
+	1    5500 7400
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR025
 U 1 1 5CF7CEDE
-P 9600 6250
-F 0 "#PWR025" H 9600 6000 50  0001 C CNN
-F 1 "GND" H 9605 6077 50  0000 C CNN
-F 2 "" H 9600 6250 50  0001 C CNN
-F 3 "" H 9600 6250 50  0001 C CNN
-	1    9600 6250
+P 3600 7200
+F 0 "#PWR025" H 3600 6950 50  0001 C CNN
+F 1 "GND" H 3605 7027 50  0000 C CNN
+F 2 "" H 3600 7200 50  0001 C CNN
+F 3 "" H 3600 7200 50  0001 C CNN
+	1    3600 7200
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR020
 U 1 1 5CF7D3F3
-P 8750 6250
-F 0 "#PWR020" H 8750 6000 50  0001 C CNN
-F 1 "GND" H 8755 6077 50  0000 C CNN
-F 2 "" H 8750 6250 50  0001 C CNN
-F 3 "" H 8750 6250 50  0001 C CNN
-	1    8750 6250
+P 2750 7200
+F 0 "#PWR020" H 2750 6950 50  0001 C CNN
+F 1 "GND" H 2755 7027 50  0000 C CNN
+F 2 "" H 2750 7200 50  0001 C CNN
+F 3 "" H 2750 7200 50  0001 C CNN
+	1    2750 7200
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR016
 U 1 1 5CF7D810
-P 7050 6250
-F 0 "#PWR016" H 7050 6000 50  0001 C CNN
-F 1 "GND" H 7055 6077 50  0000 C CNN
-F 2 "" H 7050 6250 50  0001 C CNN
-F 3 "" H 7050 6250 50  0001 C CNN
-	1    7050 6250
+P 1050 7200
+F 0 "#PWR016" H 1050 6950 50  0001 C CNN
+F 1 "GND" H 1055 7027 50  0000 C CNN
+F 2 "" H 1050 7200 50  0001 C CNN
+F 3 "" H 1050 7200 50  0001 C CNN
+	1    1050 7200
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR017
 U 1 1 5CF7DD39
-P 7900 6250
-F 0 "#PWR017" H 7900 6000 50  0001 C CNN
-F 1 "GND" H 7905 6077 50  0000 C CNN
-F 2 "" H 7900 6250 50  0001 C CNN
-F 3 "" H 7900 6250 50  0001 C CNN
-	1    7900 6250
+P 1900 7200
+F 0 "#PWR017" H 1900 6950 50  0001 C CNN
+F 1 "GND" H 1905 7027 50  0000 C CNN
+F 2 "" H 1900 7200 50  0001 C CNN
+F 3 "" H 1900 7200 50  0001 C CNN
+	1    1900 7200
 	1    0    0    -1  
 $EndComp
-Text Notes 7200 5850 0    50   ~ 0
+Text Notes 1200 6800 0    50   ~ 0
 Unused Inverters
 Wire Wire Line
 	8150 4650 8150 4700
@@ -1392,7 +1392,7 @@ Wire Wire Line
 	4150 1300 3900 1300
 Wire Wire Line
 	3700 1300 3600 1300
-Text Notes 5600 3550 0    50   ~ 0
+Text Notes 7550 6300 0    50   ~ 0
 Current Sense:\nMax current @ 10A load is 1.05mA ( 666uA load + 385 uA offset )\nFault current: 4.1 to 6.1mA\nOk to sum currents from multiple devices.\nCurrent sense only when high side active.\nFault current continuous.
 $Comp
 L Device:R_Small_US R8
@@ -1474,10 +1474,10 @@ F 3 "" H 1150 4100 50  0001 C CNN
 	1    1150 4100
 	1    0    0    -1  
 $EndComp
-NoConn ~ 7650 6250
-NoConn ~ 8500 6250
-NoConn ~ 9350 6250
-NoConn ~ 10200 6250
+NoConn ~ 1650 7200
+NoConn ~ 2500 7200
+NoConn ~ 3350 7200
+NoConn ~ 4200 7200
 NoConn ~ 1200 2500
 Text Label 4000 2700 2    50   ~ 0
 D0
@@ -1836,7 +1836,7 @@ $Comp
 L Device:C_Small C16
 U 1 1 5CE2F118
 P 10100 2700
-F 0 "C16" H 10200 2750 50  0000 L CNN
+F 0 "C16" H 10150 2800 50  0000 L CNN
 F 1 "0.1uF 30V" H 10150 2600 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 10100 2700 50  0001 C CNN
 F 3 "~" H 10100 2700 50  0001 C CNN
@@ -1850,7 +1850,7 @@ L Device:C_Small C15
 U 1 1 5CE2F63E
 P 10100 1800
 F 0 "C15" H 10150 1900 50  0000 L CNN
-F 1 "0.1uF 30V" H 10150 1700 50  0000 L CNN
+F 1 "0.1uF 30V" H 10100 1700 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 10100 1800 50  0001 C CNN
 F 3 "~" H 10100 1800 50  0001 C CNN
 F 4 "1276-1000-1-ND " H 10100 1800 50  0001 C CNN "Digi-Key_PN"
@@ -1898,4 +1898,12 @@ Wire Wire Line
 	10250 1050 10100 1050
 Connection ~ 10100 1050
 Connection ~ 10250 850 
+Text Label 10350 2250 1    50   ~ 0
+TRACK_P
+Text Label 10350 2350 3    50   ~ 0
+TRACK_N
+Text Label 10350 4250 1    50   ~ 0
+PROG_P
+Text Label 10350 4350 3    50   ~ 0
+PROG_N
 $EndSCHEMATC
