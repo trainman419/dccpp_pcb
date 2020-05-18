@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:dccpp_pcb-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -2061,4 +2060,6 @@ F 3 "" H 2200 2100 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1975 2100 2200 2100
+Text Notes 10650 7650 0    50   ~ 0
+2.0
 $EndSCHEMATC
